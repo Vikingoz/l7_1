@@ -1,4 +1,6 @@
-package etc;
+package ATM;
+
+import etc.Banknote;
 
 import java.util.Map;
 
